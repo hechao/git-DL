@@ -1,0 +1,15 @@
+[2020-11-22 17:12:04]:Telegram:https://t.me/fixpd
+[2020-11-22 17:12:04]:Checking Update Plase Wait
+[2020-11-22 17:12:05]:Checking Update Successful
+Now Using the latest version
+[2020-11-22 17:12:05]:Ready files for pandownload
+[2020-11-22 17:12:06]:Update list
+[2020-11-22 17:12:06]:Update init
+[2020-11-22 17:12:06]:Update latest
+[2020-11-22 17:12:06]:Update login
+[2020-11-22 17:12:06]:All files Down
+[2020-11-22 17:12:07]:[+]Get local file path:/api/init
+[2020-11-22 17:12:07]:[+]Get local file path:/api/script/list
+[2020-11-22 17:12:12]:[+]Get local file path:/api/latest
+[2020-11-22 17:12:12]:[+]Rediect to disk/home set bdstoken=e77c767fb85b670a092906959b8af556
+ is_svip=0,is_year_vip=0,username=FFUU80
